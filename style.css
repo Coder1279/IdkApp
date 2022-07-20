@@ -1,0 +1,34 @@
+#img
+{
+    border-radius: 50%;
+    width:100px;
+    height:100px;
+}
+#text1
+{
+    color:yellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+}
+body{
+    background-color: grey;
+}
+
+
+#SaveThe
+{
+    background-color:rgb(160, 160, 160);
+    border-radius: 50px;
+}
+#text2
+{
+    text-align: center;
+    font-family: cursive;
+}
+#Button1
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align:center;
+    background-color:grey;
+    border-radius:50px;
+}
